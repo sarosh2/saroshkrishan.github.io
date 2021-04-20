@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo on CAO OS Assignment</title>
+    <link>https://sarosh.os.com/tags/hugo/</link>
+    <description>Recent content in Hugo on CAO OS Assignment</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 20 Apr 2021 20:17:37 +0500</lastBuildDate><atom:link href="https://sarosh.os.com/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How I created this Website</title>
+      <link>https://sarosh.os.com/blog/2021-04-20-how-i-created-this-website/</link>
+      <pubDate>Tue, 20 Apr 2021 20:17:37 +0500</pubDate>
+      
+      <guid>https://sarosh.os.com/blog/2021-04-20-how-i-created-this-website/</guid>
+      <description>&lt;p&gt;I used a tutorial on Youtube to learn how to use Hugo and Git to generate a static website with pre existing themes and used github pages to host the site.&lt;br&gt;
+
+&lt;a href=&#34;https://www.youtube.com/watch?v=c7vpcqA6SEQ&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Building A Website Using Hugo&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

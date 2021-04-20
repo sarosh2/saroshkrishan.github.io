@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Operating System on CAO OS Assignment</title>
+    <link>https://sarosh.os.com/tags/operating-system/</link>
+    <description>Recent content in Operating System on CAO OS Assignment</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 20 Apr 2021 19:38:18 +0500</lastBuildDate><atom:link href="https://sarosh.os.com/tags/operating-system/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How I created the Operating System</title>
+      <link>https://sarosh.os.com/blog/2021-04-20-how-i-created-the-operating-system/</link>
+      <pubDate>Tue, 20 Apr 2021 19:38:18 +0500</pubDate>
+      
+      <guid>https://sarosh.os.com/blog/2021-04-20-how-i-created-the-operating-system/</guid>
+      <description>&lt;p&gt;I first watched the youtube videos referenced in the assignment description to understand how to use VS Code, Docker, QEMU, make and assembly code to create an OS from scratch to display the text &amp;ldquo;OK&amp;rdquo;.&lt;br&gt;
+
+&lt;a href=&#34;https://www.youtube.com/watch?v=FkrpUaGThTQ&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Write Your Own 64-bit Operating System Kernel #1&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Next, I learned how to run C code on the newly created OS through the second video referenced in the assignment description. I then used C code to print a giant &amp;ldquo;SEECS&amp;rdquo; onto the QEMU simulation.&lt;br&gt;
+
+&lt;a href=&#34;https://www.youtube.com/watch?v=wz9CZBeXR6U&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Write Your Own 64-bit Operating System Kernel #2&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;This is the link to the GitHub repository containing all the code for the Operating System I created.&lt;br&gt;
+
+&lt;a href=&#34;https://github.com/sarosh2/OS_Assignment&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;OS Assignment&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
