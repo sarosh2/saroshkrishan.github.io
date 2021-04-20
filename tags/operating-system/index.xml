@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Operating System on CAO OS Assignment</title>
-    <link>https://sarosh2.github.io/tags/operating-system/</link>
+    <link>https://sarosh2.github.io/saroshkrishan.github.io/tags/operating-system/</link>
     <description>Recent content in Operating System on CAO OS Assignment</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 20 Apr 2021 19:38:18 +0500</lastBuildDate><atom:link href="https://sarosh2.github.io/tags/operating-system/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 20 Apr 2021 19:38:18 +0500</lastBuildDate><atom:link href="https://sarosh2.github.io/saroshkrishan.github.io/tags/operating-system/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How I created the Operating System</title>
-      <link>https://sarosh2.github.io/blog/2021-04-20-how-i-created-the-operating-system/</link>
+      <link>https://sarosh2.github.io/saroshkrishan.github.io/blog/2021-04-20-how-i-created-the-operating-system/</link>
       <pubDate>Tue, 20 Apr 2021 19:38:18 +0500</pubDate>
       
-      <guid>https://sarosh2.github.io/blog/2021-04-20-how-i-created-the-operating-system/</guid>
+      <guid>https://sarosh2.github.io/saroshkrishan.github.io/blog/2021-04-20-how-i-created-the-operating-system/</guid>
       <description>&lt;p&gt;I first watched the youtube videos referenced in the assignment description to understand how to use VS Code, Docker, QEMU, make and assembly code to create an OS from scratch to display the text &amp;ldquo;OK&amp;rdquo;.&lt;br&gt;
 
 &lt;a href=&#34;https://www.youtube.com/watch?v=FkrpUaGThTQ&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Write Your Own 64-bit Operating System Kernel #1&lt;/a&gt;&lt;/p&gt;
